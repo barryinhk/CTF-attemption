@@ -1,4 +1,4 @@
-# CTF-attemption
+# CTF-attemption COMP7170 assignment1 YANGMING 
 Guessing password(please do not look up the account and password in the source code )
 It is a user login interface. And it is an account of a user who forget his password.
 And the user is a celebrity. And the account is email address. The celebrity is probably Justin Bieber.
