@@ -1,5 +1,5 @@
 # CTF-attemption
-Guessing password
+Guessing password(please do not look up the account and password in the source code )
 It is a user login interface. And it is an account of a user who forget his password.
 And the user is a celebrity. And the account is email address. The celebrity is probably Justin Bieber.
 And we know the account of justin is his email which opens to the public.
@@ -11,7 +11,7 @@ so 1. the password is weak and it is quite frequent. So this password can always
 4. And we also know the password is in this file.   http://hkbuctf.hopto.org:3780/static/1million_password.txt
 
 
-After download the file 
+After download the file , you can use VScode to open the file
 step 1 download all the dependencies 
  nmp install 
 step 2 start the server
